@@ -1,6 +1,5 @@
 Я специалист по Data Science(NLP, RecSys) и Backend-разработке(Go)
-
-🎓 **Образование**
+ **Образование**
 - **Школа анализа данных Яндекса (ШАД)** - Студент
 - **НИЯУ МИФИ** - Студент
 
@@ -22,11 +21,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Статистика GitHub
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=mosley&show_icons=true&theme=radical&locale=ru)
-
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=mosley&layout=compact&theme=radical&locale=ru)
 
 ## 🌟 Избранные проекты
 
@@ -41,6 +35,4 @@ NLP-система для анализа покупательских патте
 
 ---
 
-⚡ Интересный факт: Я верю в силу сочетания теоретических знаний из академической среды с практическим опытом индустрии для создания инновационных решений!
 
-![Просмотры профиля](https://komarev.com/ghpvc/?username=mosley&color=blueviolet)
